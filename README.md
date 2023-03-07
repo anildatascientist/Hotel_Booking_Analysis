@@ -1,6 +1,6 @@
 # Hotel Booking Analysis
 
-# Abstract:
+# 📋 Abstract:
 Hotels are one of the crucial components of the hospitality industry and also the one which adds to the pride of a city, or country. However, the hotel industry is a highly volatile industry and the bookings depend on a variety of factors such as type of hotels, location, seasonality, days of the week, and many more. The pandemic has further aggravated the highly volatile nature of this important industry. This makes analyzing the patterns available in the past data more important to help the hotels plan it better. Using historical data, hotels can perform various campaigns to boost their business. We can use the patterns to predict future bookings using time series. We have done brainstorming to find out insight from the data by using various technologies such as programming i.e. Python (Pandas, Numpy, etc.), data visualization by python libraries like seaborn, matplotlib, etc.
 
 # Introduction:
@@ -9,7 +9,7 @@ Thus, it becomes crucial to gain insights from the hotel industry data, in terms
 
 Herein our capstone project tries to blend data science with the hotel industry. The descriptive form of data analysis wherein we tried to gain insights from the historical data that we had with us.  Also, based on the trend that we observed, we could predict the future trend that may be followed, i.e., the predictive analysis. And finally, if the hotel wants, they can incorporate the insights we got from the data to plan their future course of action, i.e., prescriptive analysis.
 
-# Business Requirement:
+# 🎯 Business Requirement:
 The objective is to gain useful insights from the data about the preference of the guests in choosing the type of hotel, which months contribute towards significant revenue contribution, and how various inter-department collaborate to find out ways in increasing the revenue and also enhance the overall experience of the guests, their room choices, the problems that they face, etc.
 
 # Data Summary:
